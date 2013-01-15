@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res\layout\main.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res\layout\main.xml" />
+        <ignore path="res\layout\settings.xml" />
+    </issue>
+    <issue id="InefficientWeight">
+        <ignore path="res\layout\settings.xml" />
+    </issue>
+    <issue id="TextFields">
+        <ignore path="res\layout\settings.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res\layout\settings.xml" />
+    </issue>
+</lint>
